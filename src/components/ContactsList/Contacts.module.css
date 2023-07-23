@@ -1,5 +1,5 @@
 .contactsList {
-  border-color: rgb(143, 100, 146);
+  border-color: rgb(21, 156, 173);
   border-radius: 5px;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@
   padding: 3px;
   border: none;
   border-radius: 5px;
-  background-color: rgb(143, 100, 146);
+  background-color: rgb(21, 156, 173);
   color: rgb(255, 255, 255);
   font-size: 12px;
   transition: all 500ms ease;
@@ -28,7 +28,6 @@
 }
 
 .contactBtn:hover {
-  background-color: blueviolet;
   color: azure;
-  box-shadow: 5px 5px 5px rgb(85, 84, 84);
+  box-shadow: 2px 2px 2px rgb(85, 84, 84);
 }
