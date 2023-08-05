@@ -69,4 +69,4 @@ const ContactForm = ({ onSubmit }) => {
   );
 };
 
-export default ContactForm;
+export { ContactForm };
